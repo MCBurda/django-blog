@@ -16,3 +16,6 @@ Thumbs.db
 
 # Ignore local databases
 db.sqlite3
+
+# Ignore random pictures
+media/profile_pics/ores_bro.jpg 
